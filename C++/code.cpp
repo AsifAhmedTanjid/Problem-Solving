@@ -1,4 +1,4 @@
-#include <iostream>
+#include <bits/stdc++.h>
 #define PI 3.1416
 using namespace std;
 int main()
